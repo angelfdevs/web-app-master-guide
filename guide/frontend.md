@@ -23,3 +23,15 @@ N
 
 Which AI tools do you want to configure with Angular best practices?
 Seleccione la que mejor le parezca
+
+**Cree** el proyecto en el directorio de su preferencia
+```bash
+ng new **nombre-del-proyecto**
+```
+
+**Ingrese** a la carpeta del proyecto recien creado
+
+**Agregue** Angular Material Design
+```bash
+ng add @angular/material
+```
