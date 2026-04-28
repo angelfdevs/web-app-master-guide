@@ -41,6 +41,7 @@ Y
 ```
 Select a pair of starter prebuilt color palettes... ->
 Seleccione el que mejor le parezca
+
 5)**Instalar** librerias de traduccion (Internacionalizacion)
 ```bash
 npm install @ngx-translate/core @ngx-translate/http-loader --save
