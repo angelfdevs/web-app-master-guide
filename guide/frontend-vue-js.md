@@ -20,3 +20,4 @@ Y finalmente instalar PrimeVue, Internacionalizacion y Axios
 ```bash
 npm install primevue @primeuix/themes primeflex primeicons axios vue-i18n
 ```
+Antes de programar la logica de negocio, es importante preparar el entorno
